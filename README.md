@@ -3,4 +3,6 @@
 ## About the proyect
 
 - This project is my Holberton's project 0.
-- He contain the what the command ***uname*** print when you run it without any option.
+- It contains:
+1. What the command ***uname*** print when you run it without any option.
+2. A list with some commands of emacs.
