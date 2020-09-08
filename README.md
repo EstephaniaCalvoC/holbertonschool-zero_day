@@ -1,8 +1,6 @@
 # README
 
-## About the proyect
-
-- This project is my Holberton's project 0.
-- It contains:
-1. What the command ***uname*** print when you run it without any option.
-2. A list with some commands of emacs.
+## About the proyects
+- **0x00.Vagrant:** It contains what is the command ***uname*** print when you run it without any option.
+- **0x01.Emacs:** A list with some commands of emacs.
+- **0x02.Vi:** A list with some Vi's commands.
